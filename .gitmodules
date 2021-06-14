@@ -55,3 +55,18 @@
 [submodule "bundle/ack.vim"]
 	path = bundle/ack.vim
 	url = git@github.com:mileszs/ack.vim.git
+[submodule "bundle/vim-rake"]
+	path = bundle/vim-rake
+	url = https://github.com/tpope/vim-rake
+[submodule "bundle/vim-rails"]
+	path = bundle/vim-rails
+	url = https://github.com/tpope/vim-rails
+[submodule "bundle/vim-perfectionist"]
+	path = bundle/vim-perfectionist
+	url = git://github.com/tpope/vim-projectionist.git
+[submodule "bundle/vim-rspec"]
+	path = bundle/vim-rspec
+	url = https://github.com/thoughtbot/vim-rspec
+[submodule "bundle/ale"]
+	path = bundle/ale
+	url = https://github.com/dense-analysis/ale
