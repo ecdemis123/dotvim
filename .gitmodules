@@ -73,3 +73,6 @@
 [submodule "bundle/bundle/vim-colorschemes"]
 	path = bundle/bundle/vim-colorschemes
 	url = https://github.com/flazz/vim-colorschemes
+[submodule "/Users/eleanor.demis/.vim/bundle/colorschemes"]
+	path = /Users/eleanor.demis/.vim/bundle/colorschemes
+	url = https://github.com/flazz/vim-colorschemes.git
